@@ -1,0 +1,2 @@
+rover
+-DCATKIN_DEVEL_PREFIX=/home/sankalp/learner/first_urdf/devel -DCMAKE_INSTALL_PREFIX=/home/sankalp/learner/first_urdf/install -G Unix Makefiles

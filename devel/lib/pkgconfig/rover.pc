@@ -1,0 +1,8 @@
+prefix=/home/sankalp/learner/first_urdf/devel
+
+Name: rover
+Description: Description of rover
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs tf2
